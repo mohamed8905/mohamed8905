@@ -6,7 +6,7 @@ I'm a Data Scientist<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100025735717828)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedmosaad8905) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoudmosaad00@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mosaad-724aa3204) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmsd89/) 
 [![Upwork](https://img.shields.io/badge/Upwork-gray?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c9d98790155a594c) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-green?logo=Fiverr&logoColor=black)](https://www.fiverr.com/mohamed_msd1) 
 [![PayPal](https://img.shields.io/badge/PayPal-D14836?logo=paypal&logoColor=blue)](https://paypal.me/MohamedMSD89)
